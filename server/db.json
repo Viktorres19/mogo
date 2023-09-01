@@ -1,0 +1,669 @@
+{
+    "mogo-api": {
+        "allDevTextBlock": {
+            "subtitle": "For all devices",
+            "title": "UNIQUE DESIGN",
+            "paragraph": ""
+        },
+        "allDevBigImage": {
+            "src": "/img/alldev_pic1.png",
+            "alt": "phone"
+        },
+        "allDevSmallImage": {
+            "src": "/img/alldev_pic2.png",
+            "alt": "phone"
+        },
+        "amazingTextBlock": {
+            "subtitle": "We work with",
+            "title": "AMAZING SERVICES",
+            "paragraph": ""
+        },
+        "amazingServicesBlock": [
+            {
+                "id": 1,
+                "img": "/img/amazing_alarm_icon.png",
+                "header": "PHOTOGRAPHY",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": 2,
+                "img": "/img/amazing_web_icon.png",
+                "header": "WEB DESIGN",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": 3,
+                "img": "/img/amazing_cre_icon.png",
+                "header": "CREATIVITY",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": 4,
+                "img": "/img/amazing_seo_icon.png",
+                "header": "SEO",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": 5,
+                "img": "/img/amazing_css_icon.png",
+                "header": "CSS/HTML",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+            },
+            {
+                "id": 6,
+                "img": "/img/amazing_dig_icon.png",
+                "header": "DIGITAL",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+            }
+        ],
+        "blogTextBlock": {
+            "subtitle": "Happy Clients",
+            "title": "What people say",
+            "paragraph": ""
+        },
+        "blogItems": [
+            {
+                "id": "1",
+                "imgSrc": "/img/blog_1.jpg",
+                "imgAlt": "imgAlt",
+                "postData": "15",
+                "postMonth": "Jan",
+                "title": "Lorem ipsum dolor sit amet",
+                "text": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "viewsCount": "542",
+                "commentsCount": "17"
+            },
+            {
+                "id": "2",
+                "imgSrc": "/img/blog_2.jpg",
+                "imgAlt": "imgAlt",
+                "postData": "14",
+                "postMonth": "Jan",
+                "title": "Lorem ipsum dolor sit amet",
+                "text": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "viewsCount": "340",
+                "commentsCount": "19"
+            },
+            {
+                "id": "3",
+                "imgSrc": "/img/blog_3.jpg",
+                "imgAlt": "imgAlt",
+                "postData": "12",
+                "postMonth": "Jan",
+                "title": "sed do eiusmod tempor",
+                "text": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "viewsCount": "1560",
+                "commentsCount": "98"
+            }
+        ],
+        "counterData": [
+            {
+                "id": "1",
+                "number": "42",
+                "text": "WEB DESIGN PRODUCTS"
+            },
+            {
+                "id": "2",
+                "number": "123",
+                "text": "HAPPY CLIENT"
+            },
+            {
+                "id": "3",
+                "number": "15",
+                "text": "AWARD WINNER"
+            },
+            {
+                "id": "4",
+                "number": "99",
+                "text": "CUP OF COFFEE"
+            },
+            {
+                "id": "5",
+                "number": "24",
+                "text": "MEMBERS"
+            }
+        ],
+        "doTextBlock": {
+            "subtitle": "Who we are",
+            "title": "WHAT WE DO",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "doImage": {
+            "src": "/img/service_read_pic_1.jpg",
+            "alt": "alt"
+        },
+        "doAccordion": [
+            {
+                "id": "1",
+                "imgSrc": "/img/service_read_icon_1.png",
+                "title": "PHOTOGRAPHY",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "isOpened": true
+            },
+            {
+                "id": "2",
+                "imgSrc": "/img/service_read_icon_2.png",
+                "title": "CREATIVITY",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "isOpened": false
+            },
+            {
+                "id": "3",
+                "imgSrc": "/img/service_read_icon_3.png",
+                "title": "WEB DESIGN",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "isOpened": false
+            }
+        ],
+        "footerCopyright": {
+            "linkHref": "#",
+            "linkText": "2016 MoGo free PSD template by",
+            "spanText": "Laaqiq"
+        },
+        "footerSocialItems": [
+            {
+                "id": "1",
+                "href": "#",
+                "imgSrc": "/img/others_socials_1.png",
+                "imgAlt": "alt",
+                "width": "8",
+                "height": "16"
+            },
+            {
+                "id": "2",
+                "href": "#",
+                "imgSrc": "/img/others_socials_2.png",
+                "imgAlt": "alt",
+                "width": "16",
+                "height": "14"
+            },
+            {
+                "id": "3",
+                "href": "#",
+                "imgSrc": "/img/others_socials_3.png",
+                "imgAlt": "alt",
+                "width": "16",
+                "height": "16"
+            },
+            {
+                "id": "4",
+                "href": "#",
+                "imgSrc": "/img/others_socials_4.png",
+                "imgAlt": "alt",
+                "width": "13",
+                "height": "18"
+            },
+            {
+                "id": "5",
+                "href": "#",
+                "imgSrc": "/img/others_socials_5.png",
+                "imgAlt": "alt",
+                "width": "16",
+                "height": "14"
+            },
+            {
+                "id": "6",
+                "href": "#",
+                "imgSrc": "/img/others_socials_6.png",
+                "imgAlt": "alt",
+                "width": "16",
+                "height": "12"
+            },
+            {
+                "id": "7",
+                "href": "#",
+                "imgSrc": "/img/others_socials_7.png",
+                "imgAlt": "alt",
+                "width": "16",
+                "height": "16"
+            },
+            {
+                "id": "8",
+                "href": "#",
+                "imgSrc": "/img/others_socials_8.png",
+                "imgAlt": "alt",
+                "width": "10",
+                "height": "16"
+            }
+        ],
+        "footerWidgetAbout": {
+            "title": "MoGo",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "footerBlogsInfo": {
+            "blogsTitle": "BLOGS",
+            "blogs": [
+                {
+                    "id": "1",
+                    "link": "#",
+                    "imgSrc": "/img/others_blogs_1.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "2",
+                    "link": "#",
+                    "imgSrc": "/img/others_blogs_2.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "3",
+                    "link": "#",
+                    "imgSrc": "/img/others_blogs_3.jpg",
+                    "alt": "alt"
+                }
+            ]
+        },
+        "footerWidgetEmail": {
+            "placeholder": "Your Email",
+            "buttonSubscribe": "SUBSCRIBE"
+        },
+        "footerInstagramInfo": {
+            "instaTitle": "INSTAGRAM",
+            "posts": [
+                {
+                    "id": "1",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_1.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "2",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_2.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "3",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_3.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "4",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_4.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "5",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_5.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "6",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_6.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "7",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_7.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "8",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_8.jpg",
+                    "alt": "alt"
+                },
+                {
+                    "id": "9",
+                    "link": "#",
+                    "imgSrc": "/img/others_inst_9.jpg",
+                    "alt": "alt"
+                }
+            ]
+        },
+        "footerFollowersInfo": {
+            "amount": "15k",
+            "text": "followers",
+            "followUs": "Follow Us"
+        },
+        "heroTexts": {
+            "buttonOutlinedText": "LEARN MORE",
+            "creativeTemplateText": "Creative Template",
+            "welcomeMogoText": "Creative WELCOME TO MOGO"
+        },
+        "navigationBottomData": [
+            {
+                "id": "01",
+                "href": "story-section",
+                "text": "INTRO"
+            },
+            {
+                "id": "02",
+                "href": "someworks-section",
+                "text": "WORK"
+            },
+            {
+                "id": "03",
+                "href": "amazing-section",
+                "text": "ABOUT"
+            },
+            {
+                "id": "04",
+                "href": "footer",
+                "text": "CONTACTS"
+            }
+        ],
+        "headerNavigationTop": {
+            "navigationTopLogo": {
+                "logoText": "MoGo"
+            },
+            "navigationTopMenu": [
+                {
+                    "id": "1",
+                    "link": "story-section",
+                    "text": "ABOUT"
+                },
+                {
+                    "id": "2",
+                    "link": "amazing-section",
+                    "text": "SERVICE"
+                },
+                {
+                    "id": "3",
+                    "link": "someworks-section",
+                    "text": "WORK"
+                },
+                {
+                    "id": "4",
+                    "link": "blog-section",
+                    "text": "BLOG"
+                },
+                {
+                    "id": "5",
+                    "link": "footer",
+                    "text": "CONTACT"
+                }
+            ],
+            "navigationTopLinks": [
+                {
+                    "id": "1",
+                    "link": "#",
+                    "alt": "basket",
+                    "img": "/img/head_basket_icon.png",
+                    "width": "18",
+                    "height": "15"
+                },
+                {
+                    "id": "2",
+                    "link": "#",
+                    "alt": "search",
+                    "img": "/img/head_search_icon.png",
+                    "width": "18",
+                    "height": "18"
+                }
+            ]
+        },
+        "logos": [
+            {
+                "id": 1,
+                "src": "/img/logo_1.png",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/img/logo_2.png",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/img/logo_3.png",
+                "alt": "alt"
+            },
+            {
+                "id": 4,
+                "src": "/img/logo_4.png",
+                "alt": "alt"
+            },
+            {
+                "id": 5,
+                "src": "/img/logo_5.png",
+                "alt": "alt"
+            },
+            {
+                "id": 6,
+                "src": "/img/logo_6.png",
+                "alt": "alt"
+            }
+        ],
+        "mapSection": {
+            "mapText": "OPEN MAP",
+            "mapCursor": {
+                "imgSrc": "/img/map_holder_cursor.png",
+                "imgAlt": "alt",
+                "imgWidth": "20",
+                "imgHeight": "26"
+            }
+        },
+        "peopleClients": [
+            {
+                "id": "1",
+                "imgSrc": "/img/pep_say_1.png",
+                "imgAlt": "imgAlt",
+                "title": "Matthew Dix",
+                "subtitle": "Graphic Design",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
+            },
+            {
+                "id": "2",
+                "imgSrc": "/img/pep_say_2.png",
+                "imgAlt": "imgAlt",
+                "title": "Nick Karvounis",
+                "subtitle": "Graphic Design",
+                "text": "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            },
+            {
+                "id": "3",
+                "imgSrc": "/img/pep_say_3.png",
+                "imgAlt": "imgAlt",
+                "title": "Jaelynn Castillo",
+                "subtitle": "Graphic Design",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim."
+            },
+            {
+                "id": "4",
+                "imgSrc": "/img/pep_say_4.png",
+                "imgAlt": "imgAlt",
+                "title": "Mike Petrucci",
+                "subtitle": "Graphic Design",
+                "text": "Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+            }
+        ],
+        "peopleTextBlock": {
+            "subtitle": "Happy Clients",
+            "title": "What people say",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "sliderOneData": [
+            {
+                "id": "1",
+                "src": "/img/slider_1_1.png",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                "author": "Jon Doe"
+            },
+            {
+                "id": "2",
+                "src": "/img/slider_1_1.png",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                "author": "Jon Doe"
+            },
+            {
+                "id": "3",
+                "src": "/img/slider_1_1.png",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                "author": "Jon Doe"
+            }
+        ],
+        "sliderTwoData": [
+            {
+                "id": "1",
+                "src": "/img/slider_2_1.png",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                "author": "Joshua Earle"
+            },
+            {
+                "id": "2",
+                "src": "/img/slider_2_1.png",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                "author": "Joshua Earle"
+            },
+            {
+                "id": "3",
+                "src": "/img/slider_2_1.png",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                "author": "Joshua Earle"
+            }
+        ],
+        "someworksTextBlock": {
+            "subtitle": "What we do",
+            "title": "SOME OF OUR WORK",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "someworksPhotos": [
+            {
+                "id": 1,
+                "imgSrc": "/img/work_1.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            },
+            {
+                "id": 2,
+                "imgSrc": "/img/work_2.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            },
+            {
+                "id": 3,
+                "imgSrc": "/img/work_3.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            },
+            {
+                "id": 4,
+                "imgSrc": "/img/work_4.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            },
+            {
+                "id": 5,
+                "imgSrc": "/img/work_5.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            },
+            {
+                "id": 6,
+                "imgSrc": "/img/work_6.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            },
+            {
+                "id": 7,
+                "imgSrc": "/img/work_7.jpg",
+                "imgAlt": "imgAlt",
+                "iconSrc": "/img/work_icon.png",
+                "iconAlt": "iconAlt",
+                "header": "CREATIVELY DESIGNED",
+                "text": "Lorem ipsum dolor sit"
+            }
+        ],
+        "storyTextBlock": {
+            "subtitle": "What we do",
+            "title": "STORY ABOUT US",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "storyPhotoBlock": [
+            {
+                "id": 1,
+                "link": "",
+                "icon": "/img/what_users_icon.png",
+                "iconAlt": "iconAlt",
+                "text": "SUPER TEAM",
+                "image": "/img/what_1.jpg",
+                "imageAlt": "imageAlt"
+            },
+            {
+                "id": 2,
+                "link": "",
+                "icon": "/img/what_users_icon.png",
+                "iconAlt": "iconAlt",
+                "text": "BEST EQUIP",
+                "image": "/img/what_2.jpg",
+                "imageAlt": "imageAlt"
+            },
+            {
+                "id": 3,
+                "link": "",
+                "icon": "/img/what_users_icon.png",
+                "iconAlt": "iconAlt",
+                "text": "GOOD PHOTO",
+                "image": "/img/what_3.jpg",
+                "imageAlt": "imageAlt"
+            }
+        ],
+        "teamTextBlock": {
+            "subtitle": "Who we are",
+            "title": "MEET OUR TEAM",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        "teamBlockList": [
+            {
+                "id": 1,
+                "img": "/img/team_1.jpg",
+                "name": "MATTEW DIX",
+                "position": "Graphic Design",
+                "socials": {
+                    "facebook": "#",
+                    "twitter": "#",
+                    "pinterest": "#",
+                    "instagram": "#"
+                }
+            },
+            {
+                "id": 2,
+                "img": "/img/team_2.jpg",
+                "name": "CHRISTOPHER CAMPBELL",
+                "position": "Branding/UX design",
+                "socials": {
+                    "facebook": "#",
+                    "twitter": "#",
+                    "pinterest": "#",
+                    "instagram": "#"
+                }
+            },
+            {
+                "id": 3,
+                "img": "/img/team_3.jpg",
+                "name": "MICHAEL FERTIG",
+                "position": "Developer",
+                "socials": {
+                    "facebook": "#",
+                    "twitter": "#",
+                    "pinterest": "#",
+                    "instagram": "#"
+                }
+            }
+        ]
+    }
+}
